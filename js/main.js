@@ -265,6 +265,6 @@ let realizarPago = prompt("¿Desea realizar el pago? (si/no)");
 if (realizarPago.toLowerCase() == "si") {
     console.log("¡El pago fue realizado con exito! Muchas Gracias");
 } else {
-    console.log("El pago fue cancelado. Gracias de todas formas.");
+    console.log("El pago fue cancelado. Gracias de todas formas. Vuelva pronto!");
 }
 
